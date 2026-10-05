@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/studio-namayar/',
+    base: '/namayar-studio-final/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
